@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Computer Science
+<b>Discipline | <b>Electrical
 :--|:--|
 <b> Lab | <b> Fill your lab name here
 <b> Experiment|     <b> Fill your experiment name and number here
