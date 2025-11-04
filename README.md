@@ -3,18 +3,17 @@
 
 <b>Discipline | <b>Computer Science
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b>Virtual Labs
+<b> Experiment|     <b>Allow user to vertually place the semiconductor sample in the ovem.
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Aman Patel
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>Rajkiya Engineering College Banda  
+<b> Email id|     <b>amanpatelzx@gmail.com  
+<b> Department |  Information Technology
 
 ### Contributors List
 
