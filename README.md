@@ -9,8 +9,9 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Aman Patel
+<b>Name of Developer | <b> Dr. Ashutosh Tiwari
 :--|:--|
+<b> Student's Name | <b>Aman Patel  
 <b> Institute | <b>Rajkiya Engineering College Banda  
 <b> Email id|     <b>amanpatelzx@gmail.com  
 <b> Department |  Information Technology
