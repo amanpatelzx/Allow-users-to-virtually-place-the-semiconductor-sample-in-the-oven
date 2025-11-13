@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Computer Science
+<b>Discipline | <b>Don't warry This is Aman Patel
 :--|:--|
 <b> Lab | <b>Virtual Labs
 <b> Experiment|     <b>Allow user to vertually place the semiconductor sample in the ovem.
